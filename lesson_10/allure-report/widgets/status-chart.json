@@ -1,0 +1,1 @@
+[{"uid":"33e5d88cd121674f","name":"Оформления заказа и проверка итоговой суммы","time":{"start":1764287736581,"stop":1764287743456,"duration":6875},"status":"passed","severity":"critical"},{"uid":"466743631c50c6df","name":"Тестирование калькулятора: 7 + 8 = 15","time":{"start":1764287686560,"stop":1764287736576,"duration":50016},"status":"passed","severity":"critical"}]
